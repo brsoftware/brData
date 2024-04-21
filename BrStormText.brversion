@@ -1,1 +1,10 @@
 0.7.0
+=====
+Short summary:
+  - Initial release
+  - Provide syntax highlighting for 42 programming languages
+  - Advanced editor features:
+      * File Browser
+      * Bookmarks
+      * Regex-based multiline find-and-replace
+      * etc.
