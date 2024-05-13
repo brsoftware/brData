@@ -1,0 +1,9 @@
+0.7.0
+=====
+Short summary:
+  - Initial release
+  - Povide a complete game interface of Tetris
+     * Replica of the original
+     * No additional features
+  - Background music
+  - etc.
